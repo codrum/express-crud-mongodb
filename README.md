@@ -1,6 +1,4 @@
-# basic-CRUD
-This is a full CRUD project using a NodeJS (Express) API, MongoDB, and a frontend using jQuery and Bootstrap
-
+# express-crud-mongodb
 This node.js app allows for the very basic CRUD operations
 
 - create an event
